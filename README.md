@@ -1,1 +1,2 @@
-# Kyukashinsei
+# 休暇申請Bot
+GASとSlackBotを使用したSlack上で休暇を申請できるBot
